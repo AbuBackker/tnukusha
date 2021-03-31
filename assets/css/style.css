@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,900&display=swap');
 
+.carousel-item img{
+    width: 100%;
+
+}
+
 .mt-30{
     margin-top: 30px;
 }
@@ -9,6 +14,7 @@
   .section-heading{
     position: relative;
 }
+
 .fontf{
     font-family: "Raleway", sans-serif;
 }
